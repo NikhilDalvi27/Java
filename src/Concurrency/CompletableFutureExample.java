@@ -13,7 +13,7 @@ public class CompletableFutureExample {
 
     public static void main(String[] args) {
         needForCompletableFuture();
-        usingCompletableFuture();
+//        usingCompletableFuture();
     }
 
     private static void usingCompletableFuture() {
